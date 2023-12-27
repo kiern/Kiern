@@ -9,6 +9,8 @@ Kiern's README is a ✨ _special_ ✨ README because everybody is welcome and it
   ##About me
   Hi, Im Kiern you might recognise me as a new student
 </picture>
+
+### these are my hobbies
   | Rank | Hobbies |
 |-----:|---------------|
 |     1|   Sports      |
