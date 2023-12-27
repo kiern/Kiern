@@ -15,8 +15,7 @@ Kiern's README is a ✨ _special_ ✨ README because everybody is welcome and it
 </picture>
 
 
-About me 
-Hi, Im kiern!
+
 
 
   | Rank | Hobbies |
