@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my profile.
-###kiern's README is a ✨ _special_ ✨ README because everybody is welcome and its unique 
+Kiern's README is a ✨ _special_ ✨ README because everybody is welcome and its unique 
 
 
 
