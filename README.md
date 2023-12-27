@@ -1,8 +1,5 @@
 ### Hi there 👋 Welcome to my profile.
 Kiern's README is a ✨ _special_ ✨ README because everybody is welcome and its unique 
-
-
-
 - 🔭 I’m currently working on how Github works
 - 🌱 I’m currently learning how to use Github as a newbie
 - 🤔 I’m looking for help with something in the near future
@@ -11,13 +8,7 @@ Kiern's README is a ✨ _special_ ✨ README because everybody is welcome and it
 - ⚡ Fun fact: I love to play video games
   ##About me
   Hi, Im Kiern you might recognise me as a new student
-
 </picture>
-
-
-
-
-
   | Rank | Hobbies |
 |-----:|---------------|
 |     1|   Sports      |
