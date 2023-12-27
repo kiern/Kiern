@@ -9,4 +9,21 @@
 - 💬 Ask me about anything you want!
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love to play video games
--->
+  ##About me
+  Hi, Im Kiern you might recognise me as a new student
+
+</picture>
+
+
+##About me 
+Hi, Im kiern!
+
+
+  | Rank | Hobbies |
+|-----:|---------------|
+|     1|   Sports      |
+|     2|   Video games |
+|     3| Watching youtube  |
+
+
+  
